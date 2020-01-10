@@ -1,1 +1,1 @@
-# Web-Mininig-Assessments-VIT
+# Web-Mining-Assessments-VIT
